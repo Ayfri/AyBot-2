@@ -36,7 +36,7 @@ module.exports.run = async (client, message, args, argsError) => {
 module.exports.config = {
 	category: "administration",
 	name: __filename.slice(__dirname.length + 1, __filename.length - 3),
-	englishName: name,
+	englishName: __filename.slice(__dirname.length + 1, __filename.length - 3),
 	aliases: [],
 	serverForced: true
 }

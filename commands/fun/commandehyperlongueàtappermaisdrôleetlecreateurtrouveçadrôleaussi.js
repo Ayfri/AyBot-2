@@ -1,16 +1,16 @@
 module.exports.run = async (client, message, args) => {
 	if(message.guild && message.guild.me.hasPermission('MANAGE_MESSAGES', true)) message.delete();
-    message.author.send("Eh beh, c'était pas trop long de tapper ça ? "+message.author);
+    message.author.send("Wasn't it too long to write that ? "+message.author);
 }
 module.exports.config = {
-	category: "cachée",
+	category: "hidden",
 	name: __filename.slice(__dirname.length + 1, __filename.length - 3),
-	aliases: ["mdr"],
+	aliases: ["lol"],
 	serverForced: false
 }
 
 module.exports.help = {
-	description: "GG t'as eu le courrage de la tapper !",
-	utilisations: `commandehyperlongueàtappermaisdrôleetlecreateurtrouveçadrôleaussi`,
+	description: "GG ! You had the courage to write it down !",
+	utilisations: `verylongtowritebutfunnycommandandthecreatorfinditfunnytoo`,
 	exemples: ``
 }

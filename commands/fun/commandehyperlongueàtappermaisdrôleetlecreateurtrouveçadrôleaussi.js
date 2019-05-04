@@ -3,9 +3,10 @@ module.exports.run = async (client, message, args) => {
     message.author.send("Wasn't it too long to write that ? "+message.author);
 }
 module.exports.config = {
-	category: "hidden",
+	category: "cachée",
 	name: __filename.slice(__dirname.length + 1, __filename.length - 3),
-	aliases: ["lol"],
+	englishName: "verylongtowritebutfunnycommandandthecreatorfinditfunnytoo",
+	aliases: ["mdr", "lol"],
 	serverForced: false
 }
 

@@ -11,7 +11,7 @@
   "dependencies": {
     "bufferutil": "^4.0.1",
     "canvas": "^2.3.1",
-    "chalk": "^2.4.2",
+    "chalk": "^4.1.0",
     "count-lines-in-file": "^1.1.0",
     "discord.js": "^11.4.2",
     "discord.js-docs": "0.0.8",

@@ -13,7 +13,7 @@
     "canvas": "^2.3.1",
     "chalk": "^2.4.2",
     "count-lines-in-file": "^1.1.0",
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.3.1",
     "discord.js-docs": "0.0.8",
     "enmap": "^4.6.6",
     "jimp": "^0.14.0",

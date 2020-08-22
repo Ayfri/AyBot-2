@@ -17,7 +17,7 @@
     "discord.js-docs": "0.0.8",
     "enmap": "^4.6.6",
     "jimp": "^0.16.0",
-    "moment": "^2.24.0",
+    "moment": "^2.27.0",
     "node-opus": "^0.3.1",
     "request": "^2.88.2",
     "sequelize": "^5.15.1",

@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bufferutil": "^4.0.1",
+    "bufferutil": "^4.0.3",
     "canvas": "^2.6.1",
     "chalk": "^4.1.0",
     "count-lines-in-file": "^1.1.0",

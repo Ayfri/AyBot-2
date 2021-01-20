@@ -15,7 +15,7 @@
     "count-lines-in-file": "^1.1.0",
     "discord.js": "^11.4.2",
     "discord.js-docs": "0.1.2",
-    "enmap": "^4.6.6",
+    "enmap": "^5.8.4",
     "jimp": "^0.16.0",
     "moment": "^2.27.0",
     "node-opus": "^0.3.3",

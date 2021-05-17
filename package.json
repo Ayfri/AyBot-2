@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bufferutil": "^4.0.1",
-    "canvas": "^2.6.1",
+    "canvas": "^2.8.0",
     "chalk": "^4.1.0",
     "count-lines-in-file": "^1.1.0",
     "discord.js": "^11.4.2",
